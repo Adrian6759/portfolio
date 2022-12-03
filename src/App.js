@@ -9,7 +9,7 @@ import Home from "./components/Home";
 
 class App extends Component {
 
-  constructor(props) {
+  
     super();
     this.state = {
       foo: "bar",

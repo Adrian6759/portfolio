@@ -1,7 +1,14 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Adrian Hernandez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 Hello ,I'm Adrian Hernandez. Before I decided to change careers I was enlisted in the Army. I was a Practical Nursing Specialist and worked as a Non-Commissioned Officer in Charge for a labor and delivery unit.
+      
+      Software Development sparked my interest because it is an essential asset in most if not all industries. The potential for growth in this field is very high and I would like to see what I could potentially contribute to the software development industry.
+      Ideally I would like to work in a team setting where I can collaborate with others and learn from others. I would also like to give back to others when the opportunity arises.
+      I would be an asset to others because I am able to effectively work in a team setting. I have proven so with my work as a nurse in a team environment as well as various situations I encountered during my time in the Army. 
+      I am able to effectively communicate with others and I have good interpersonal skills. I was able to build rapport with my patients even though males nurses were not the norm.
+      I have previously worked in customer service and I know how to put the consumers wants and needs into perspective in order to provide them with the best experience."
+      ,
       "section_name": {
         "about": "About me",
         "projects": "Projects",
