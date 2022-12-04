@@ -1,95 +1,95 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 Hello ,I'm Adrian Hernandez. Before I decided to change careers I was enlisted in the Army. I was a Practical Nursing Specialist and worked as a Non-Commissioned Officer in Charge for a labor and delivery unit.Software Development sparked my interest because it is an essential asset in most if not all industries. The potential for growth in this field is very high and I would like to see what I could potentially contribute to the software development industry.I chose this specific skill because I saw it as an opportunity for me to develop. This field is something I knew nothing about and to learn something completely new was a challenge I gladly accepted.Ideally I would like to work in a team setting where I can collaborate with others and learn from others. I would also like to give back to others when the opportunity arises.I would be an asset to others because I am able to effectively work in a team setting. I have proven so with my work as a nurse in a team environment as well as various situations I encountered during my time in the Army. I am able to effectively communicate with others and I have good interpersonal skills. I was able to build rapport with my patients even though males nurses were not the norm. I have previously worked in customer service and I know how to put the consumers wants and needs into perspective in order to provide them with the best experience.",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 Hello ,I'm Adrian Hernandez. Before I decided to change careers I was enlisted in the Army. I was a Practical Nursing Specialist and worked as a Non-Commissioned Officer in Charge for a labor and delivery unit.Software Development sparked my interest because it is an essential asset in most if not all industries. The potential for growth in this field is very high and I would like to see what I could potentially contribute to the software development industry.I chose this specific skill because I saw it as an opportunity for me to develop. This field is something I knew nothing about and to learn something completely new was a challenge I gladly accepted.Ideally I would like to work in a team setting where I can collaborate with others and learn from others. I would also like to give back to others when the opportunity arises.I would be an asset to others because I am able to effectively work in a team setting. I have proven so with my work as a nurse in a team environment as well as various situations I encountered during my time in the Army. I am able to effectively communicate with others and I have good interpersonal skills. I was able to build rapport with my patients even though males nurses were not the norm. I have previously worked in customer service and I know how to put the consumers wants and needs into perspective in order to provide them with the best experience.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Odd Duck Vote",
+      "startDate": "2022",
+      "description": "This application allows you to vote on your favorite products. Once all the votes have been exhausted, the results are displayed to you in a chart as well as in percentages.",
+      "images": [
+        "images/portfolio/odd-duck/p1.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "JavaScript"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Odd Duck Vote",
-        "startDate": "2022",
-        "description": "This application allows you to vote on your favorite products. Once all the votes have been exhausted, the results are displayed to you in a chart as well as in percentages.",
-        "images": [
-          "images/portfolio/odd-duck/p1.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "Salmon Cookies",
-        "startDate": "2022",
-        "description": "This application is a website for the Pat's Salmon cookies business. It shows the user information about the business as well as metrics for cookies sold on one of the web pages.",
-        "images": [
-          "images/portfolio/salmon-cookies/p1.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "Salmon Cookies",
-        "startDate": "2022",
-        "description": "This application is a website for the Pat's Salmon cookies business. It shows the user information about the business as well as metrics for cookies sold on one of the web pages. This is a placeholder for a future project.",
-        "images": [
-          "images/portfolio/pats-cookies/p1.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-csharp-plain",
-            "name": "JavaScript"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Salmon Cookies",
+      "startDate": "2022",
+      "description": "This application is a website for the Pat's Salmon cookies business. It shows the user information about the business as well as metrics for cookies sold on one of the web pages.",
+      "images": [
+        "images/portfolio/salmon-cookies/p1.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Salmon Cookies",
+      "startDate": "2022",
+      "description": "This application is a website for the Pat's Salmon cookies business. It shows the user information about the business as well as metrics for cookies sold on one of the web pages. This is a placeholder for a future project.",
+      "images": [
+        "images/portfolio/pats-cookies/p1.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-csharp-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "DefOpenSource",
+      "title": "Front-End Developer",
+      "years": "10.2019 - present",
+      "mainTech": [
+        "Angular 8/9/10"
+      ],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "EF Core",
+        ".NET Core",
+        "SignalR",
+        "Angular Material"
+      ]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Intern",
+      "years": "01.2018 - 09.2019",
+      "mainTech": [
+        "Angular 7/8"
+      ],
+      "technologies": [
+        "RxJS",
+        "Django",
+        "PHP",
+        "JavaScript",
+        "DHTMLX Gantt"
+      ]
+    }
+  ]
+}
