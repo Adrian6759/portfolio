@@ -50,6 +50,6 @@ Estimate of time needed to complete: 1 hour
 
 Start time: 1500
 
-Finish time: still working on it
+Finish time: 1730
 
-Actual time needed to complete: still working on it
+Actual time needed to complete: had to come back and work on it. I'd say it was about 2.5-3hrs
